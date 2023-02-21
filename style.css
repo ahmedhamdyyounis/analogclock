@@ -32,6 +32,7 @@ main {
     border-radius: 100%;
     position: relative;
     box-shadow: 0px 0px 8px 1px white;
+    margin-top: 150px;
 }
 
 .one {
